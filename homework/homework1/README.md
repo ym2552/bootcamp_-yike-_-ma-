@@ -1,5 +1,7 @@
 ## Project title
 Electricity Load Forecasting with PCA for Risk Management in Power Markets
+
+
 **Stage 01** - Problem Framing & Scoping
 ### Problem Statement
 - In today's energy markets, anticipating electricity demand is crucial because precise projections enable utilities, grid operators, and financial institutions to better manage risks and distribute resources. The price of electricity might fluctuate significantly in a matter of hours, for example, from 5 RMB to 15 RMB. The intricacy of several coupled and nonlinear elements, including temperature, humidity, fossil fuel costs, and renewable energy, is difficult for traditional forecasting models to handle. In order to solve this, I suggest reducing dimensionality and extracting important features from these inputs using Principal Component Analysis (PCA model). This makes it possible to create a prediction model that more accurately depicts the ways in which fuel prices, storage, renewable energy sources, and weather impact the increase of the national load.
